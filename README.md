@@ -1,7 +1,7 @@
-🚀 ## BRAND NEW - E-Commerce Project (Evolution)
+## 🚀  BRAND NEW - E-Commerce Project (Evolution)
 Este repositorio documenta mi proceso de aprendizaje y desarrollo como desarrollador frontend, pasando desde la concepción de una identidad de marca hasta la implementación de interfaces interactivas complejas.
 
-📈 ## Mi Proceso de Aprendizaje
+## 📈  Mi Proceso de Aprendizaje
 A lo largo de este proyecto, he evolucionado de crear maquetas estáticas a desarrollar una experiencia de usuario (UX) coherente y dinámica.
 
 ## 1. Concepto e Identidad Visual
